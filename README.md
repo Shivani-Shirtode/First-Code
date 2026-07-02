@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shivani-Shirtode/First-Code/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Shivani-Shirtode/First-Code/tree/master/0015-3sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,4 +27,12 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Shivani-Shirtode/First-Code/tree/master/0008-string-to-integer-atoi) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Shivani-Shirtode/First-Code/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Shivani-Shirtode/First-Code/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
